@@ -1,0 +1,29 @@
+# Lutrinae
+
+> Lutrinae is a photographer and IoT developer in Ho Chi Minh City (Saigon), Vietnam, and an Information Technology (IoT) student at Gia Dinh University. Offers portrait, áo dài, yearbook, event and colour-themed photo shoots at student prices, plus small IoT / ESP32 / Arduino projects.
+
+- Vietnamese site: https://lutrinae.example.com/
+- English site: https://lutrinae.example.com/en/
+
+## Services & starting prices (student rates, VND, reference only)
+- Portrait photography: from 199,000đ
+- Colour-themed shoot: from 249,000đ
+- Events & yearbooks: from 499,000đ
+
+Prices exclude venue, outfits, make-up and travel outside Ho Chi Minh City. Exact quote after a chat.
+
+## Contact (direct message)
+- https://www.facebook.com/share/18yx4XnLXg/
+- https://www.instagram.com/lutrinae27
+- https://www.tiktok.com/@otterlutrinae
+- https://www.threads.com/@lutrinae27
+
+## FAQ (Vietnamese)
+- **Bạn nhận những dự án lập trình nào?** Chủ yếu là dự án IoT quy mô nhỏ (ESP32, Arduino, cảm biến, điều khiển qua Wi-Fi), website giới thiệu / landing page và công cụ nhỏ bằng Python hoặc JavaScript. Dự án lớn hơn mình sẽ trao đổi kỹ trước khi nhận.
+- **Có hỗ trợ đồ án IoT cho sinh viên không?** Có. Mình hỗ trợ lên ý tưởng, chọn linh kiện, lắp mạch, viết code và giải thích để bạn hiểu và tự trình bày được, không chỉ “làm hộ”.
+- **Chi phí chụp ảnh được tính thế nào?** Theo buổi chụp hoặc theo gói (số ảnh chỉnh sửa, thời lượng, địa điểm). Mức khởi điểm có trong Bảng giá tham khảo; nhắn mình nhu cầu qua Facebook hoặc Instagram để nhận báo giá cụ thể.
+- **Chụp ảnh kỷ yếu giá sinh viên ở TP.HCM khoảng bao nhiêu?** Chụp sự kiện & kỷ yếu chỉ từ 499.000đ/buổi, chân dung chỉ từ 199.000đ/buổi, book chụp theo màu chỉ từ 249.000đ/concept: giá HSSV tại TP.HCM. Giá cuối tuỳ thời lượng, số người và địa điểm.
+- **Book chụp theo màu là gì?** Bạn chọn một tông màu chủ đạo (pastel, xanh trời, kem vintage, nâu film, đen trắng…); mình gợi ý trang phục, phụ kiện, bối cảnh và chỉnh màu đồng bộ để cả bộ ảnh cùng một mood.
+- **Bao lâu thì nhận được ảnh?** Ảnh preview thường gửi trong 1–2 ngày; ảnh chỉnh sửa hoàn chỉnh trong khoảng 3–7 ngày tùy số lượng.
+- **Có chụp ngoài TP. Hồ Chí Minh không?** Có thể, chi phí di chuyển sẽ được tính riêng và báo trước.
+- **Làm sao để đặt lịch?** Nhắn trực tiếp qua Facebook, Instagram, TikTok hoặc Threads ở mục Liên lạc. Lịch được giữ sau khi hai bên thống nhất nội dung và thời gian.
